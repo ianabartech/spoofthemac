@@ -57,7 +57,7 @@ print('''
 # for example: 0[A]1122334455 or 0A5544332211
 # remove the [] in example, I just used that to elaborate.
 # If you're not sure on what you're doing, you can leave the MAC address unchanged.
-mac_to_change_to = ["0E1122334455", "0A69420DEAD8","02143C0FFEE0", "066DECADE420", "0AC0CAC01A00", "02FEED7HED06", "0EC0DEAD1111"]
+mac_to_change_to = ["0E1122334455", "0A69420DEAD8","02143C0FFEE0", "066DECADE420", "0AC0CAC01A00", "02FEED7HED06", "0EC0DEAD1111", "0DEC0DE691111"]
 
 # We create an empty list where we will store all the MAC addresses in the array.
 mac_addresses = list()
